@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: 26.2.1
+  version: "26.6.0"
   python_min: "3.11"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/j/jupyter_host_file_picker/jupyter_host_file_picker-${{ version }}.tar.gz
-  sha256: 61e519859423c0d394eefd5c472b490ac66e30397f22f012f95b0dda43c45318
+  sha256: 882d1506380608351c31f19e1e2d619e5ad2b69d1f73160cc0a1367c4aa512f7
 
 build:
   number: 0
